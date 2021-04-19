@@ -4,14 +4,10 @@
 ## Student @ Sastra deemed to be University 
 
 
-- An aspiring ethical hacker and a CTF player
-- Currently developing my skills in Malware analysis and Reverse engineering .
-- Currrently a script kiddie maybe ? 
-- I also Love to script exploits with C++ and Python for various vulnerability .  
-
-### These are my badges from various websites 
-
-<script src="https://tryhackme.com/badge/243143"></script>
+👨‍💻 An aspiring ethical hacker and a CTF player 👨‍💻
+🐱‍👤 Currently developing my skills in Malware analysis and Reverse engineering .
+👀    Currrently a script kiddie maybe ? 
+📜    I also Love to script exploits with C++ and Python for various vulnerability .  
 
 ### Connect with me:
 
