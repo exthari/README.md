@@ -3,7 +3,7 @@
 - Student at Sastra deemed to be University 
 - Second Year CSE
 
-## About ME
+## About Me
 
 - An aspiring ethical hacker and a CTF player 👤 
 - Currently developing my skills in Malware analysis , Reverse engineering , PWN 💻 
