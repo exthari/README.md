@@ -11,7 +11,7 @@
 
 ### These are my badges from various websites 
 
-[<script src="https://tryhackme.com/badge/243143"></script>]
+<script src="https://tryhackme.com/badge/243143"></script>
 
 ### Connect with me:
 
