@@ -11,8 +11,7 @@
 
 ### These are my badges from various websites 
 
-[ <img src="https://tryhackme-badges.s3.amazonaws.com/hariharan25.png" alt="TryHackMe">]
-
+[<img src="https://tryhackme-badges.s3.amazonaws.com/hariharan25.png" alt="TryHackMe" />][TryHackMe]
 
 ### Connect with me:
 
