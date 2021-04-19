@@ -1,13 +1,17 @@
-### Hey Guys I'm This is Hariharan aka Corrupted protocols 
+### Hey Guys . This is Hariharan aka Corrupted protocols 
+
 
 
 ## Student @ Sastra deemed to be University 
-
 
 - An aspiring ethical hacker and a CTF player 👤 
 - Currently developing my skills in Malware analysis and Reverse engineering 💻 
 - Currrently a script kiddie maybe ? 👀
 - I also Love to script exploits with C++ and Python for various vulnerability 📜   
+
+## My badges from various platform 
+
+![hariharan25](https://user-images.githubusercontent.com/70131865/115285725-d4481b00-a16b-11eb-964d-0a5d1e3f2f59.png)
 
 ### Connect with me:
 
