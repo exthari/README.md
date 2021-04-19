@@ -1,20 +1,21 @@
-### Hey Guys . This is Hariharan aka Corrupted protocols 
+# Hey Guys .  
+## This is Hariharan aka Corrupted protocols 
 
-# Student at Sastra deemed to be University 
-# Second Year CSE
+- Student at Sastra deemed to be University 
+- Second Year CSE
 
 ## About Me
 
-# An aspiring ethical hacker and a CTF player 👤 
-# Currently developing my skills in Malware analysis , Reverse engineering , PWN 💻 
-# Currrently a script kiddie maybe ? 👀
-# I also Love to script exploits with C++ and Python for various vulnerability 📜   
+- An aspiring ethical hacker and a CTF player 👤 
+- Currently developing my skills in Malware analysis , Reverse engineering , PWN 💻 
+- Currrently a script kiddie maybe ? 👀
+- I also Love to script exploits with C++ and Python for various vulnerability 📜   
 
 ## What will you find in my Repo 
 
-# Writeups for various CTF
-# Notes 
-# Scripts 
+- Writeups for various CTF
+- Notes 
+- Scripts 
 
 ## Tryhackme Badge
 
