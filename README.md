@@ -6,9 +6,9 @@
 
 ## About Me
 
-- An aspiring ethical hacker and a CTF player 👤 
-- Currently developing my skills in Malware analysis , Reverse engineering , PWN 💻 
-- I also Love to script exploits with C++ and Python for various vulnerability 📜   
+- An aspiring Ethical Hacker 👤 
+- Currently developing my skills in Penetration Testing, Reverse engineering & PWN 💻 
+- I also write automated scripts & exploits with C++ and Python 📜   
 
 ## What will you find in my Repo 
 
