@@ -1,24 +1,22 @@
 # Hello!  
 ## This is Hariharan aka Corrupted protocols 
 
-- B.Tech @ Sastra deemed to be University 
+- DevOps Engineer @ Deloitte
 - Research @ Universitat Autònoma de Barcelona
+- B.Tech @ Sastra deemed to be University 
 
 ## About Me
 
 - An aspiring Ethical Hacker 👤 
-- Currently developing my skills in Penetration Testing, Reverse engineering & PWN 💻 
-- I also write automated scripts & exploits with C++ and Python 📜   
+- Trying to Devolop Skills in Every Domain 💻 
+- I also write automated scripts & exploits with C++ and Python 📜
+- I Write Blogs!
 
 ## What will you find in my Repo 
 
 - Writeups for various CTF
 - Notes 
 - Scripts 
-
-## Tryhackme Badge
-
-![hariharan25](https://user-images.githubusercontent.com/70131865/115285725-d4481b00-a16b-11eb-964d-0a5d1e3f2f59.png) 
 
 ### Connect with me:
 
